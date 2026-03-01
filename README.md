@@ -1,2 +1,3 @@
-# blnq-untitled-project
-Created with Blnq Studio
+# Untitled Project
+
+Created with [Blnq Studio](https://blnq.studio/e/CMrINEN)
